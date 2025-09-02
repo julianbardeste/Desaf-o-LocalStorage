@@ -1,5 +1,3 @@
-// js/data.js
-
 document.addEventListener("DOMContentLoaded", () => {
   // Obtenemos el <span id="data"> desde el HTML
   const dataSpan = document.getElementById("data");
