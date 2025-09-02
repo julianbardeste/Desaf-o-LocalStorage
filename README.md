@@ -20,3 +20,5 @@ localStorage.removeItem("example");
 
 // Vemos que nuevamente es null
 console.log(localStorage.getItem("example"));
+
+---------------------------------------------------------
